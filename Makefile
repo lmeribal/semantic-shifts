@@ -7,7 +7,9 @@ TESTS:=tests
 poetry-download:
 	curl -sSL https://install.python-poetry.org | python -
 
-all: type test lint
+install:
+	poetry lock -n && poetry export --without-hashes > requirements.txt
+	poetry install -n
 
 lint:
 	$(CMD) mypy --install-types --non-interactive ./semantic_shifts

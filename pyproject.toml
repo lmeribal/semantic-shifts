@@ -2,7 +2,7 @@
 name = "semantic-shifts"
 version = "0.1.0"
 description = ""
-authors = ["Elisei Rykov esrykov@edu.hse.ru", "Ilya Gruntov altaica@narod.ru"]
+authors = ["Elisei Rykov <esrykov@edu.hse.ru>", "Ilya Gruntov <altaica@narod.ru>"]
 readme = "README.md"
 packages = [{include = "semantic_shifts"}]
 
