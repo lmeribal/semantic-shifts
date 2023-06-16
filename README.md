@@ -11,10 +11,6 @@ We have published all the data we used in our experiments:
 # ML classifier
 ## Running training scripts
 
-## Results
-
-# Clustering
-## Running clustering scripts
 
 ## Results
 The results of the method evaluation are shown in the table:
@@ -34,3 +30,9 @@ The results of the method evaluation are shown in the table:
 | Frozen LM fine-tuning                   | mt0-large                    | 0.65          | 0.64       | 0.63     | 0.71        |
 
 Fine-tuning of the frozen [mt0-small](https://huggingface.co/bigscience/mt0-small) model outperforms all other models and methods.
+
+
+# Clustering
+## Running clustering scripts
+
+## Results
