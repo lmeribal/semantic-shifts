@@ -10,7 +10,18 @@ We have published all the data we used in our experiments:
 
 # ML classifier
 ## Running training scripts
-
+1. The project requires `Poetry`, so if you don't have it, install it like this:
+```bash
+make poetry-download
+```
+2. Download dependencies:
+```bash
+make install
+```
+3. Run the project:
+```bash
+make run
+```
 
 ## Results
 The results of the method evaluation are shown in the table:
