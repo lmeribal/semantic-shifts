@@ -1,3 +1,4 @@
+entry	main	second	language	dictionary	homonym
 -Baa	time of. Occurs in yaay-baa (sun-baa) meaning ‘summer’ and dhandarr-aa (frost-aa) meaning ‘winter’.	place of. Occurs in walaay-baa (campplace of) meaning ‘a person’s country or home place’. ♦ Gayaay-baa-ga ngiyani yanaa-waa-nha.	Yuwaalaraay	A.Ash, J.Giacon, A.Lissarrague. Gamilaraay/Yuwaalaraay/Yuwaalayaay to English Dictionary. 2003	-
 baa-y	hop	jump	Yuwaalaraay	A.Ash, J.Giacon, A.Lissarrague. Gamilaraay/Yuwaalaraay/Yuwaalayaay to English Dictionary. 2003	-
 baa-y	hop	jump	Yuwaalayaay	A.Ash, J.Giacon, A.Lissarrague. Gamilaraay/Yuwaalaraay/Yuwaalayaay to English Dictionary. 2003	-
@@ -732,9 +733,9 @@ muurr	full, blocked.	blunt.	Gamilaraay	A.Ash, J.Giacon, A.Lissarrague. Gamilaraa
 muyaan	tree. General word for any tree.	stick. ♦ Muyaan nhama banggadha-laa-nha gungan-da. 	Yuwaalayaay	A.Ash, J.Giacon, A.Lissarrague. Gamilaraay/Yuwaalaraay/Yuwaalayaay to English Dictionary. 2003	-
 muyaan	tree. General word for any tree.	branch. ♦ Nhay-bil nhama muyaan, gagii. 	Yuwaalayaay	A.Ash, J.Giacon, A.Lissarrague. Gamilaraay/Yuwaalaraay/Yuwaalayaay to English Dictionary. 2003	-
 muyaay	white cockatoo, sulphur-crested cockatoo (Cacatua galerita)	pointers of Southern Cross 	Yuwaalayaay	A.Ash, J.Giacon, A.Lissarrague. Gamilaraay/Yuwaalaraay/Yuwaalayaay to English Dictionary. 2003	-
--	nga1	now	then	Yuwaalaraay	A.Ash, J.Giacon, A.Lissarrague. Gamilaraay/Yuwaalaraay/Yuwaalayaay to English Dictionary. 2003	-
--	nga1	now	then	Yuwaalayaay	A.Ash, J.Giacon, A.Lissarrague. Gamilaraay/Yuwaalaraay/Yuwaalayaay to English Dictionary. 2003	-
--	nga1	now	or 	Yuwaalayaay	A.Ash, J.Giacon, A.Lissarrague. Gamilaraay/Yuwaalaraay/Yuwaalayaay to English Dictionary. 2003	-
+nga1	now	then	Yuwaalaraay	A.Ash, J.Giacon, A.Lissarrague. Gamilaraay/Yuwaalaraay/Yuwaalayaay to English Dictionary. 2003	-
+nga1	now	then	Yuwaalayaay	A.Ash, J.Giacon, A.Lissarrague. Gamilaraay/Yuwaalaraay/Yuwaalayaay to English Dictionary. 2003	-
+nga1	now	or 	Yuwaalayaay	A.Ash, J.Giacon, A.Lissarrague. Gamilaraay/Yuwaalaraay/Yuwaalayaay to English Dictionary. 2003	-
 ngaanngu	whose? ♦ Ngaanngu nhama bilaarr?	to who? This is only used when something is ‘given to’ or ‘done for’ someone. There is a different word for 'movement to who’.	Yuwaalaraay	A.Ash, J.Giacon, A.Lissarrague. Gamilaraay/Yuwaalaraay/Yuwaalayaay to English Dictionary. 2003	-
 ngaanngu	whose? ♦ Ngaanngu nhama bilaarr?	to who? This is only used when something is ‘given to’ or ‘done for’ someone. There is a different word for 'movement to who’.	Yuwaalayaay	A.Ash, J.Giacon, A.Lissarrague. Gamilaraay/Yuwaalaraay/Yuwaalayaay to English Dictionary. 2003	-
 ngaanngu	whose? ♦ Ngaanngu nhama bilaarr?	to who? This is only used when something is ‘given to’ or ‘done for’ someone. There is a different word for 'movement to who’.	Yuwaalaraay/Gamilaraay	A.Ash, J.Giacon, A.Lissarrague. Gamilaraay/Yuwaalaraay/Yuwaalayaay to English Dictionary. 2003	cognates

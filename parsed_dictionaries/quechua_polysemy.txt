@@ -1,3 +1,4 @@
+entry	main	second	language	dictionary	homonym	label
 aa!	¡Oh!, ¡ah! Arcaísmo de a!	Fuera, afuera.	Qechua	ACADEMIA MAYOR DE LA LENGUA QUECHUA. DICCIONARIO QUECHUA - ESPAÑOL - QUECHUA. 2005	-	 interjección | Argentina
 achacha,	Juguete. 	Vestido lujoso.	Qechua	ACADEMIA MAYOR DE LA LENGUA QUECHUA. DICCIONARIO QUECHUA - ESPAÑOL - QUECHUA. 2005	-	sustantivo
 achachilla	Apacheta.	Veneración de los accidentes geográficos, considerados como lugares sagrados. 	Qechua	ACADEMIA MAYOR DE LA LENGUA QUECHUA. DICCIONARIO QUECHUA - ESPAÑOL - QUECHUA. 2005	-	sustantivo | Religión | Ecuador
